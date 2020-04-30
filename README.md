@@ -1,0 +1,1 @@
+# Simple Elastic Stack Using Terraform, Docker & Docker-Compose
